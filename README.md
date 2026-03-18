@@ -41,7 +41,7 @@ Usage behavior strongly influences churn
 2. ROC Curve
 
 🚀 **How to Run**
-git clone https://github.com/username/customer-churn-prediction.git
+git clone https://github.com/rishalfanda/customer-churn-prediction.git
 cd customer-churn-prediction
 pip install -r requirements.txt
 jupyter notebook
